@@ -19,7 +19,7 @@ This is a social media application built using the MERN (MongoDB, Express, React
 - Like posts
 - Add and remove friends
 
-On Development
+# On Development
 - Comment on posts
 - Chat
 - Friend Request
