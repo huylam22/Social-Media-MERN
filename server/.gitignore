@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Compiled output
+dist/
+
+# Logs
+logs/
+*.log
+
+# Debugging
+.vscode/
+.idea/
+
+# Dependencies
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+
+# IDE settings
+*.swp
+*.swo
+*.DS_Store
