@@ -25,10 +25,10 @@ This is a social media application built using the MERN (MongoDB, Express, React
 - Friend Request
 
 # Technologies Used
-MongoDB - document-based NoSQL database
-Express - web application framework for Node.js
-React - JavaScript library for building user interfaces
-Node.js - JavaScript runtime environment
-Material UI - React UI Framework
-Redux - State Management
+- MongoDB - document-based NoSQL database
+- Express - web application framework for Node.js
+- React - JavaScript library for building user interfaces
+- Node.js - JavaScript runtime environment
+- Material UI - React UI Framework
+- Redux - State Management
 
