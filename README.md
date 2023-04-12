@@ -1,5 +1,5 @@
-Social Media MERN Application
-This is a social media application built using the MERN (MongoDB, Express, React, Node.js) stack. It allows users to create accounts, make posts, and interact with other users through comments and likes.
+# Social Media MERN Application
+This is a social media application built using the MERN (MongoDB, Express, React, Node.js) stack. It allows users to create accounts, make posts, and interact with other users through comments and likes. 🤩🤩🤩
 
 # Installation
 - Clone this repository
